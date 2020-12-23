@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.note-li {
+  height: 1.5em;
+}
+
+.note-input {
+  border: none;
+  font-family:'Courier New', Courier, monospace;
+  border-top: hidden;
+  border-right: hidden;
+  border-left: hidden;
+  border-bottom: 1px solid #000;
+  font-size: small;
+}
+
+.note-value {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: small;
+}
+
+.render-index {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: small;
+}
